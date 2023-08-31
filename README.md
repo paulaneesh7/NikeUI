@@ -27,3 +27,7 @@ Entire Landing Page of Nike with React, Tailwind and Vite as build tool.
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
